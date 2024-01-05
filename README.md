@@ -5,7 +5,7 @@
 **系统**\
 Diskman,文件传输\
 **服务**\
-SSR plus+, Adblank,全能推送,动态DDNS, QOS Nftables, 网络唤醒, KMS服务器, uPnP, OpenVPN, , NWAN3w分流助手\
+SSR plus+, Adblock,全能推送,动态DDNS, QOS Nftables, 网络唤醒, KMS服务器, uPnP, OpenVPN, , NWAN3w分流助手\
 **管控**\
 上网时间控制, 访问控制, 网址过滤, 定时唤醒\
 **网络存储**\
