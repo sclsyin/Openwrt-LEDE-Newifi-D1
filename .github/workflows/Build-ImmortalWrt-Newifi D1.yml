@@ -8,16 +8,16 @@ on:
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: openwrt-23.05
-  FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: ImmortalWrt.config
-  DIY_P1_SH: diy-part1.sh
-  DIY_P2_SH: diy-part2.sh
+  FEEDS_CONF: ImmortalWrt/feeds.conf.default
+  CONFIG_FILE: ImmortalWrt/ImmortalWrt.config
+  DIY_P1_SH: ImmortalWrt/diy-part1.sh
+  DIY_P2_SH: ImmortalWrt/diy-part2.sh
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
-  FIRMWARE_TAG: X86_64
-  DEVICE_TARGET: X86
-  DEVICE_SUBTARGET: 64
+  FIRMWARE_TAG: Mips
+  DEVICE_TARGET: Newifi D1
+  DEVICE_SUBTARGET: MT7621
   TZ: Asia/Shanghai
 
 jobs:
